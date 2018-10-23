@@ -1,0 +1,42 @@
+.container {
+	width: 750px;
+	margin: 0 auto;
+}
+
+.headline {
+    text-align: center;
+}
+
+.headline_i{
+    font-size: 22px;
+    text-align: center;
+    font-style: italic;
+}
+
+.headline_b {
+    font-weight: bold;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+.font_i {
+    text-align: center;
+    font-style: italic;
+}
+.font_u{
+    text-decoration:underline
+} 
+
+.font_i_r {
+    text-align: right;
+    font-style: italic;
+}
+
+img.fig {
+    padding-right: 10px;
+}
+.mouse {
+    text-align: center;
+}
